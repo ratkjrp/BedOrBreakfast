@@ -1,2 +1,2 @@
 # BedOrBreakfast
-passion project game with a friend :)
+making a fun game w/ friend
